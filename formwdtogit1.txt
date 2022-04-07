@@ -6,5 +6,10 @@ modified times 2
 =======
 
 
+<<<<<<< HEAD
 >>>>>>> mybranch
 modified times 3
+=======
+modified times 3
+modified times 4
+>>>>>>> mybranch
